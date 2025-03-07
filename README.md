@@ -9,7 +9,7 @@
 
 ###
 
-<h4>🌱 I’m currently learning:</h4>
+<h3 align="left">🌱 I’m currently learning:</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h4>⚡Tools and Technologies:</h4>
+<h3 align="left">⚡Tools and Technologies:</h3>
 
 ###
 
