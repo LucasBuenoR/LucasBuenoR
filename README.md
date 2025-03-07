@@ -9,6 +9,23 @@
 
 ###
 
+<h4>🌱 I’m currently learning:</h4>
+
+###
+
+<div align ="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="7" />
+</div>
+
+###
+
+<h4>⚡Tools and Technologies:</h4>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="7" />
