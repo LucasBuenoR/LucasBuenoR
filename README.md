@@ -1,5 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <h2 align="left">Hi 👋! My name is Lucas</h2>
 
 ###
@@ -53,7 +51,6 @@
 </div>
 
 ###
-
 
 <div align="center" style="white-space: nowrap;">
   <img height="150" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" style="display: inline-block;"><img height="150" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" style="display: inline-block;"><img height="150" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" style="display: inline-block;">
