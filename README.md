@@ -53,10 +53,10 @@
 ###
 
 
-<div align="center" style="display: flex;">
-  <img height="150" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
-  <img height="150" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
-  <img height="150" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
+<div align="center" style="font-size: 0;">
+  <img height="150" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" style="display: inline-block;">
+  <img height="150" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" style="display: inline-block;">
+  <img height="150" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" style="display: inline-block;">
 </div>
 
 ###
