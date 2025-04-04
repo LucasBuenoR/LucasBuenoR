@@ -11,7 +11,6 @@
 
 ###
 
-<br><br><br><br><br><br>
 <h2 align="left">🌱 I’m currently learning:</h2>
 
 ###
