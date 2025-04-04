@@ -1,15 +1,17 @@
 <h2 align="left">Hi 👋! My name is Lucas</h2>
+<p>📚Graduated in Systems Analysis and Development from Fatec Ribeirão Preto.</p>
+<p>🧠The learning process never ends...</p>
 
 ###
 
-<div align="center">
+<div align="left" >
   <img src="https://github-readme-stats.vercel.app/api?username=LucasBuenoR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasBuenoR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="left">🌱 I’m currently learning:</h3>
+<h2 align="left">🌱 I’m currently learning:</h2>
 
 ###
 
@@ -22,7 +24,7 @@
 
 ###
 
-<h3 align="left">⚡Tools and Technologies:</h3>
+<h2 align="left">⚡Tools and Technologies:</h2>
 
 ###
 
@@ -54,7 +56,7 @@
 
 ###
 
-<h3 align="left">📫 How to reach me:</h3>
+<h2 align="left">📫 How to reach me:</h2>
 
 ###
 
